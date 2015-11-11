@@ -1,0 +1,4 @@
+### Requirements
+
+	jquery
+	cookie-js
